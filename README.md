@@ -1,5 +1,5 @@
 # SportApp with Flutter
-This project just will be present my profile. 
+This project just will be present my coding. 
 
 ## Getting Started
 
